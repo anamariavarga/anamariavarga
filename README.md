@@ -30,3 +30,4 @@ Hi, I'm Ana 👋
 - SQL
 
 📫 Connect with me: https://www.linkedin.com/in/ana-maria-varga-7b9a8912/
+.
